@@ -1,5 +1,4 @@
-# CSCI271_GitIntro_ValenPrimm
-# My First GitHub Repository!!!!!!!!!! heck YEAH
+# My First GitHub Repository!!!!!!!!!!
 This is my very first repository on GitHub.
 **Author:** [Valen Primm]
 **Date Created:** May 13, 2026
