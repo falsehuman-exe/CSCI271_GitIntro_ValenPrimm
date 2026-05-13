@@ -1,6 +1,6 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
-// Section: YOUR SECTION
+// Name: Valen Primm
+// Section: MCSCI-271-5132
 
 #include <iostream>
 using namespace std;
